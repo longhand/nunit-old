@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\src\tests\test-utilities\test-utilities.csproj" total="0" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-03-03" time="09:33:11">
+  <environment nunit-version="2.6.3.0" clr-version="2.0.50727.6413" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\bin\Debug" machine-name="BIENDUBIEN-PC" user="誓志" user-domain="BIENDUBIEN-PC" />
+  <culture-info current-culture="ja-JP" current-uiculture="ja-JP" />
+  <test-suite type="Project" name="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\src\tests\test-utilities\test-utilities.csproj" executed="True" result="Inconclusive" success="False" time="0.026" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\src\tests\test-utilities\..\..\..\bin\Debug\tests\test-utilities.dll" executed="True" result="Inconclusive" success="False" time="0.004" asserts="0" />
+    </results>
+  </test-suite>
+</test-results>

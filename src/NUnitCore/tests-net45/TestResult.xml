@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\src\NUnitCore\tests-net45\nunit.core.tests.net45.csproj" total="44" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-03-03" time="10:31:38">
+  <environment nunit-version="2.6.3.0" clr-version="2.0.50727.6413" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\bin\Debug" machine-name="BIENDUBIEN-PC" user="誓志" user-domain="BIENDUBIEN-PC" />
+  <culture-info current-culture="ja-JP" current-uiculture="ja-JP" />
+  <test-suite type="Project" name="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\src\NUnitCore\tests-net45\nunit.core.tests.net45.csproj" executed="True" result="Success" success="True" time="1.557" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\tech\OSS\c#\NUnit-2.6.3\NUnit-2.6.3\src\NUnitCore\tests-net45\..\..\..\bin\Debug\tests\nunit.core.tests.45.dll" executed="True" result="Success" success="True" time="1.542" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="nunit" executed="True" result="Success" success="True" time="1.541" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="core" executed="True" result="Success" success="True" time="1.541" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="tests" executed="True" result="Success" success="True" time="1.541" asserts="0">
+                    <results>
+                      <test-suite type="Namespace" name="net45" executed="True" result="Success" success="True" time="1.540" asserts="0">
+                        <results>
+                          <test-suite type="TestFixture" name="NUnitAsyncTestMethodTests" executed="True" result="Success" success="True" time="1.485" asserts="0">
+                            <results>
+                              <test-suite type="ParameterizedTest" name="RunTests" executed="True" result="Success" success="True" time="1.465" asserts="0">
+                                <results>
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidTestSuccess(),Success,1)" executed="True" result="Success" success="True" time="0.054" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidTestFailure(),Failure,1)" executed="True" result="Success" success="True" time="0.033" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidTestError(),Error,0)" executed="True" result="Success" success="True" time="0.019" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidTestExpectedException(),Success,0)" executed="True" result="Success" success="True" time="0.014" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskTestSuccess(),Success,1)" executed="True" result="Success" success="True" time="0.010" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskTestFailure(),Failure,1)" executed="True" result="Success" success="True" time="0.012" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskTestError(),Error,0)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskTestExpectedException(),Success,0)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task`1[System.Int32] TaskTTestCaseWithResultCheckSuccess(),Success,0)" executed="True" result="Success" success="True" time="0.018" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task`1[System.Int32] TaskTTestCaseWithResultCheckFailure(),Failure,0)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task`1[System.Int32] TaskTTestCaseWithResultCheckError(),Failure,0)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task`1[System.Object] TaskTTestCaseWithResultCheckSuccessReturningNull(),Success,0)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task`1[System.Object] TaskTTestCaseWithoutResultCheckExpectedExceptionSuccess(),Success,0)" executed="True" result="Success" success="True" time="0.008" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void NestedVoidTestSuccess(),Success,1)" executed="True" result="Success" success="True" time="0.020" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void NestedVoidTestFailure(),Failure,1)" executed="True" result="Success" success="True" time="0.009" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void NestedVoidTestError(),Error,0)" executed="True" result="Success" success="True" time="0.009" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task NestedTaskTestSuccess(),Success,1)" executed="True" result="Success" success="True" time="0.009" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task NestedTaskTestFailure(),Failure,1)" executed="True" result="Success" success="True" time="0.009" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task NestedTaskTestError(),Error,0)" executed="True" result="Success" success="True" time="0.009" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidTestMultipleSuccess(),Success,1)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidTestMultipleFailure(),Failure,1)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidTestMultipleError(),Error,0)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskTestMultipleSuccess(),Success,1)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskTestMultipleFailure(),Failure,1)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskTestMultipleError(),Error,0)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidCheckTestContextAcrossTasks(),Success,2)" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidCheckTestContextWithinTestBody(),Success,2)" executed="True" result="Success" success="True" time="0.005" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskCheckTestContextAcrossTasks(),Success,2)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(System.Threading.Tasks.Task TaskCheckTestContextWithinTestBody(),Success,2)" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidAsyncVoidChildCompletingEarlierThanTest(),Success,0)" executed="True" result="Success" success="True" time="1.019" asserts="3" />
+                                  <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.RunTests(Void VoidAsyncVoidChildThrowingImmediately(),Success,0)" executed="True" result="Success" success="True" time="0.011" asserts="3" />
+                                </results>
+                              </test-suite>
+                              <test-case name="nunit.core.tests.net45.NUnitAsyncTestMethodTests.SynchronizationContextSwitching" executed="True" result="Success" success="True" time="0.007" asserts="4" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="NUnitTestCaseBuilderTests" executed="True" result="Success" success="True" time="0.049" asserts="0">
+                            <results>
+                              <test-suite type="ParameterizedTest" name="AsyncTestCases" executed="True" result="Success" success="True" time="0.027" asserts="0">
+                                <results>
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTestCases(Void AsyncVoidTestCaseWithResultCheck(),NotRunnable)" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTestCases(System.Threading.Tasks.Task AsyncTaskTestCaseWithResultCheck(),NotRunnable)" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTestCases(System.Threading.Tasks.Task`1[System.Int32] AsyncTaskTTestCaseWithResultCheck(),Runnable)" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTestCases(Void AsyncVoidTestCaseWithoutResultCheck(),Runnable)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTestCases(System.Threading.Tasks.Task AsyncTaskTestCaseWithoutResultCheck(),Runnable)" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTestCases(System.Threading.Tasks.Task`1[System.Int32] AsyncTaskTTestCaseWithoutResultCheck(),NotRunnable)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTestCases(System.Threading.Tasks.Task`1[System.Int32] AsyncTaskTTestCaseExpectedExceptionWithoutResultCheck(),Runnable)" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                                </results>
+                              </test-suite>
+                              <test-suite type="ParameterizedTest" name="AsyncTests" executed="True" result="Success" success="True" time="0.009" asserts="0">
+                                <results>
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTests(Void AsyncVoidTest(),Runnable)" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTests(System.Threading.Tasks.Task AsyncTaskTest(),Runnable)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                                  <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.AsyncTests(System.Threading.Tasks.Task`1[System.Int32] AsyncTaskTTest(),NotRunnable)" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                                </results>
+                              </test-suite>
+                              <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.Non_async_task" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                              <test-case name="nunit.core.tests.net45.NUnitTestCaseBuilderTests.Non_async_task_with_result" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
